@@ -87,7 +87,7 @@ Solo **4 archivos principales**, claros y bien comentados:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/visualizador-algoritmos-python.git
+git clone https://github.com/UnaiIvars/visualizador-algoritmos-python.git
 cd visualizador-algoritmos-python
 ```
 

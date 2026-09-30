@@ -1,8 +1,6 @@
-# Algorithm Visualizer
+# Visualizador Algoritmos en Python
 
 ![Quick Sort](assets/quicksort.gif)
-
-Interactive algorithm visualizer built with Python + Pygame.
 
 Un proyecto interactivo, limpio y fácil de entender, desarrollado en Python con Pygame para visualizar el funcionamiento interno de algoritmos clásicos de ordenación, búsqueda y grafos.
 Diseñado con código simple, legible y sin sobreingeniería.
